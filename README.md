@@ -3,7 +3,7 @@
 **10+ years building and shipping: AI agents, RAG systems, automation, and full-stack products.** Solo technical founder — I architect, build, and operate complete products end-to-end, from agent orchestration to production infrastructure.
 
 - 🏢 **Leon Gael LLC** — AI automation for LATAM (SAP B1, regulated fintech, legal)
-- 💰 **$75/hr** freelance (UpWork) — 6 active clients, $4K/mo recurring
+- 💰 Freelance (Contra) 
 - 🖥️ Everything I ship runs in production: NL agent with 16 tools for SAP B1, legal AI assistant with strict RAG, voice+chat customer agents, 20 Docker services on a single 24 GB ARM VPS
 
 ## What I do
@@ -32,4 +32,4 @@
 
 ---
 
-📬 jaco@leongael.xyz · 🌐 [leongael.xyz](https://leongael.xyz) · 💼 UpWork
+📬 jaco@leongael.xyz · 🌐 [leongael.xyz](https://leongael.xyz) 
